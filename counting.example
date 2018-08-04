@@ -1,0 +1,1 @@
+python book_word_counter.py segmented/chapter2-segmented.txt 50

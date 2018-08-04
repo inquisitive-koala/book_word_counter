@@ -1,0 +1,1 @@
+stanford-segmenter-2018-02-27/segment.sh -k pku priest-zhenhun-2/chapter4.txt utf-8 0 > segmented/chapter4-segmented.txt
